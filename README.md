@@ -1,7 +1,5 @@
-
 <div align="center">
-  
-  <h2> Hi there! I'm Francisco Nicolau 😎 </h2>
+  <h1> Hi there! I'm Francisco Nicolau 😎 </h1>
   
   I'm a Computer Science and Engineering Student from Portugal with a strong interest in Computer Graphics and Game Development.
   

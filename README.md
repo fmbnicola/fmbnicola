@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hi there! I'm Francisco Nicolau 😎 </h1>
   
-  I'm a Computer Science and Engineering Student from Portugal with a strong interest in Computer Graphics and Game Development.
+  I'm a Software Engineer from Portugal with a strong interest in Computer Graphics and Game Development.
   
   [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fweb.ist.utl.pt/francisconicolau/)](http://web.ist.utl.pt/francisconicolau/)
   [![Twitter Follow](https://img.shields.io/twitter/follow/chronicbite?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffmbnicola&screen_name=chronicbite)  
